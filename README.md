@@ -13,5 +13,6 @@ Get_OTP() will create a 6 digits code and return its value.
 GetEmail() will take the email from user and check if user is putting right format of email.  
 Check_OTP() will verify the OTP. It allows 3 attemps in case user puts the wrong OTP.  
 
-To send the email to user you need Gmail and Google APP Password[click here](https://support.google.com/accounts/answer/185833?hl=en).  
+To send the email to user you need Gmail and Google APP Password [click here to Get](https://support.google.com/accounts/answer/185833?hl=en).  
+Copy that key and paste in the code below.
 
